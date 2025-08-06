@@ -1,0 +1,42 @@
+[
+  {
+    "serija_naziv": "Naziv Serije 1",
+    "epizode": [
+      {
+        "epizoda": "Epizoda 1",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2",
+        "video_src": "https://cdn64.my.mail.ru/hv/private/73965813.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.0%3A8002%2Frados2%2F73965813-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754452800&touch=1645336275&reg=187&sign=cb27e6082a5d04c4fd83393feea4686bae958362"
+      },
+      {
+        "epizoda": "Epizoda 2",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2",
+        "video_src": "https://cdn64.my.mail.ru/hv/private/73965813.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.1%3A8002%2Frados2%2F73965813-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754452800&touch=1645336275&reg=187&sign=9f7b22c161edfc37b2e9b9a2789a821ced6de1ed"
+      }
+    ]
+  },
+  {
+    "serija_naziv": "Naziv Serije 2",
+    "epizode": [
+      {
+        "epizoda": "Epizoda 1",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/2",
+        "video_src": "https://cdn64.my.mail.ru/hv/private/73965813.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.2%3A8002%2Frados2%2F73965813-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754452800&touch=1645336275&reg=187&sign=072d22380364c8d8e39cdc3ce204640238563527"
+      }
+    ]
+  },
+  {
+    "serija_naziv": "Naziv Serije 3",
+    "epizode": [
+      {
+        "epizoda": "Epizoda 1",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/3",
+        "video_src": "https://cdn64.my.mail.ru/hv/private/73965813.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A8002%2Frados2%2F73965813-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754452800&touch=1645336275&reg=187&sign=072d22380364c8d8e39cdc3ce204640238563527"
+      },
+      {
+        "epizoda": "Epizoda 2",
+        "url": "https://m.my.mail.ru/mail/svenadlanu/video/3",
+        "video_src": "https://cdn64.my.mail.ru/hv/private/73965813.mp4?slave[]=s%3Ahttp%3A%2F%2F10.146.243.4%3A8002%2Frados2%2F73965813-hv&p=f&video_key=dc64edd0f4f9a87f0b7333dce8199ffee11f6056&expire_at=1754452800&touch=1645336275&reg=187&sign=072d22380364c8d8e39cdc3ce204640238563527"
+      }
+    ]
+  }
+]
